@@ -185,10 +185,10 @@ body {
 }
 
 .about .row .content p {
-  margin-bottom: 0.8rem;
-  font-size: 1.4rem;
+  margin-bottom: 1rem;
+  font-size: 1.6rem;
   font-weight: 100;
-  line-height: 1.6;
+  line-height: 1.4;
 }
 
 /*Menu Section*/
@@ -202,9 +202,10 @@ body {
     max-width: 30rem;
     margin: auto;
     font-weight: 100;
-    line-height: 1.6;
+    line-height: 1.8;
     padding-top: 1rem;
     padding-bottom: 2rem;
+    font-size: 1.4rem;
 }
 
 .menu .row {
